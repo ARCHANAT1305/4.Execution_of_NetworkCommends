@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+### REGISTER NUMBER : 212223240013
+### NAME ARCHANA T  
 ## AIM :
 Use of Network commands in Real Time environment
 ## SOFTWARE :
@@ -87,6 +89,9 @@ print(result,unans)
 ```
 ## OUTPUT:
 ![image](https://github.com/ARCHANAT1305/4.Execution_of_NetworkCommends/assets/145975189/4373465b-4bea-4c0c-adcd-d978827e5e12)
+
+## TRACE CODE COMMAND:
+![image](https://github.com/ARCHANAT1305/4.Execution_of_NetworkCommends/assets/145975189/eca322ac-9a1d-4e3e-bbb8-355e93261e91)
 
 
 ## RESULT:
